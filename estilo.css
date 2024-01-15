@@ -5,3 +5,12 @@
 .divs-facilidades{
     width: 325px;
 }
+
+.texto-verde{
+    color: #DAFF01;
+}
+
+.btn{
+    background-color: #9353FF;
+    border: none;
+}
