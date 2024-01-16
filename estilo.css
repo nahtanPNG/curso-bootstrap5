@@ -14,3 +14,11 @@
     background-color: #9353FF;
     border: none;
 }
+
+.btn:hover{
+    background-color: #9353FF;
+}
+
+footer p {
+    color: white;
+}
